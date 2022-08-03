@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable-v24/circular_progress_Gray.xml" value="0.122" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable-v24/circular_progress_gray.xml" value="0.188" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1075" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/bmi_background.xml" value="0.126" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/circular_progress_bar.xml" value="0.122" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/ic_history_icon.xml" value="0.126" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.126" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_border.xml" value="0.126" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_border_ripple_background.xml" value="0.1475" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_accent_background.xml" value="0.122" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_gray_background.xml" value="0.1" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_greenstroke_background.xml" value="0.126" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_seleced_background.xml" value="0.1225" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_white_blackStroke_background.xml" value="0.1225" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/item_circular_color_white_greenstroke_background.xml" value="0.126" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/drawable/shape.xml" value="0.133" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_bmi_calculator.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_bmi_calculator_activty.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_exercise.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_finish.xml" value="0.25" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_finish2.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_history.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/dialog_custom_back_confirmation.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/finalactivity.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/finishactivity.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/item_exercise_status.xml" value="0.4" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/layout/item_history_recyclerview.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/HP/AndroidStudioProjects/7MinutesWorkout/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1075" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
